@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rtY7YwEiHS/QLIHfiDHrewQJ0YsUImQ5odv+4hUDROMI9H3xMHO8LyNRM+rk8aVM3qreUu1Q3Uw91DaOYNqlwA==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\NerdStoreEnterprise\\NerdStoreEnterprise\\src\\Web\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arthu\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512"
+  ],
+  "logs": []
+}
